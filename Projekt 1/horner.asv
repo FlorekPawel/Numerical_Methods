@@ -1,0 +1,11 @@
+function[y] = horner(w, x)
+
+n = length(w);
+y = w(n);
+
+for k = n-1:0
+    y
+
+
+end
+end
